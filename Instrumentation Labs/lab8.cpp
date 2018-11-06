@@ -3,7 +3,7 @@
  * *******************/
 
 #include <iostream>
-#include "flite.h"
+
 using namespace std;
 
 //{flite_text_to_speech(const char *text, cst_voice *voice, const char *outtype);}
